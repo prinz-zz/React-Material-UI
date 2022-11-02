@@ -1,0 +1,5 @@
+React : 18.2.0
+Material ui : v5.10.5
+sass : 1.55.0
+react-router-dom : 6.4.1
+https://picsum.photos/
